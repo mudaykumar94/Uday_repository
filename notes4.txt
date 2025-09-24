@@ -1,1 +1,2 @@
 'date'::for stash demo
+'date':: for next activity
