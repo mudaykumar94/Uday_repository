@@ -2,4 +2,8 @@
 'date'::working with branches
 'date'::working with conflict note3 in master
 'date'::working with conflict note3 in dev3
+<<<<<<< Updated upstream
 fixed the conflict'date'::for stash demo
+=======
+fixed the conflict'date'::working with notes3 in master
+>>>>>>> Stashed changes
