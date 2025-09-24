@@ -2,3 +2,6 @@
 'date'::working with merge
 'date'::working with conflict note2 in master
 'date':: for next activity
+'date':: for next activity 
+'date':: for next activity 
+'date':: for next activity 
