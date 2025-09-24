@@ -7,3 +7,4 @@ fixed the conflict'date'::for stash demo
 =======
 fixed the conflict'date'::working with notes3 in master
 >>>>>>> Stashed changes
+'date':: for next activity
