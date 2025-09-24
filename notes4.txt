@@ -1,1 +1,1 @@
-'date'::revrt demo
+'date'::for stash demo

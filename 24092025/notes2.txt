@@ -1,4 +1,3 @@
 'date'::working with branches
 'date'::working with merge
 'date'::working with conflict note2 in master
-'date'::revert demo
