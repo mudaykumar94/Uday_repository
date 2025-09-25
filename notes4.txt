@@ -6,4 +6,3 @@ Adding for conflict in same file local 12
 Adding for conflict in same file RR
 Adding in RR to check fetch in local
 adding to check ruleset for branch
-adding to check commit
