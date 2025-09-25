@@ -2,4 +2,3 @@
 'date':: for next activity
 Adding from VScode
 Adding for ORT check in vscode
-Adding for conflict check in same file in lacal
