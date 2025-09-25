@@ -2,6 +2,7 @@
 'date'::working with branches
 'date'::working with conflict note3 in master
 'date'::working with conflict note3 in dev3
+Added in RR 
 <<<<<<< Updated upstream
 fixed the conflict'date'::for stash demo
 =======
